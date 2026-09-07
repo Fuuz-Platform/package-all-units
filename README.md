@@ -1,5 +1,9 @@
 # AllUnits — Fuuz Units of Measure Package
 
+> **Beta concept — not an accelerator.** Published as a working concept to read, run
+> and take the pattern from. It is not a supported deliverable, it carries no service
+> level agreement, and it may change or be withdrawn without notice.
+
 A comprehensive Fuuz package containing all standard units of measure, unit types, and unit conversions for the Fuuz platform.
 
 ## Description
@@ -74,3 +78,9 @@ The `deleteSeededUnitData.graphql` file contains all three mutations pre-built w
 | Spec Version | `2.0.0` |
 | Platform Version | `2026.2.1.782` |
 | Publisher | `fuuz` |
+
+## Service levels
+
+No service level agreement applies to anything published here. It becomes a supported
+deliverable only once it has been implemented by a Fuuz services professional or an
+approved Fuuz partner.
